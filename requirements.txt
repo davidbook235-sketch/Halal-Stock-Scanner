@@ -1,5 +1,3 @@
-halal-scanner-india/
-├── app.py              # Streamlit main file
-├── screener.py         # Screening logic (agar DIY approach)
-├── requirements.txt    # Dependencies
-└── README.md           # Documentation
+streamlit
+halalterminal
+pandas
